@@ -29,7 +29,7 @@
     <color name="people_app_theme_color">#33B5E5</color>
 
     <!-- Put on top of each photo, implying 80% darker than usual. -->
-    <color name="on_hold_dim_effect">#cc000000</color>
+    <color name="on_hold_dim_effect">#00000000</color>
 
     <!-- Used with some smaller texts in manage conference screen. -->
     <color name="manage_conference_secondary_text_color">#888888</color>
